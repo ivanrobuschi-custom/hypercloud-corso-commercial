@@ -1,0 +1,47 @@
+site_name: HyperCloud — Formazione Commerciale
+site_url: https://github.com/ivanrobuschi-custom/hypercloud_corso_commercial.git
+site_author: Custom S.p.A.
+
+theme:
+  name: material
+  logo: assets/icons/logo.png
+  favicon: assets/icons/favicon.png
+  language: it
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.preview
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.sections
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+  palette:
+    primary: blue grey
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - tags
+
+copyright: Copyright Custom S.p.A 2026
+
+nav:
+  - Home: index.md
+  - Capitolo 1 — Introduzione: introduzione.md
+  - Capitolo 2 — Contesto di Mercato: contesto-di-mercato.md

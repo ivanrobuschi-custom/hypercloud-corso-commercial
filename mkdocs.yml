@@ -25,7 +25,7 @@ theme:
     - search.share
     - navigation.footer
   palette:
-    primary: blue grey
+    primary: custom
 
 extra_css:
   - stylesheets/extra.css
@@ -45,3 +45,5 @@ nav:
   - Introduzione: introduzione.md
   - Contesto di mercato: contesto_mercato.md
   - Il Prodotto: il_prodotto.md
+  - I Piani e i Token: i_piani.md
+  - Il Cliente Tipo: il_cliente_tipo.md

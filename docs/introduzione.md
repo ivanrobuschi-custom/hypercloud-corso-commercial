@@ -1,5 +1,5 @@
 ---
-title: "Introduzione"
+title: "Introduzione al corso HyperRetailCloud"
 date: "2026-06-26"
 categoria: software HyperRetailCloud
 creato da: Robuschi Ivan
@@ -7,8 +7,18 @@ Azienda: Custom S.p.A.
 Software: HyperRetailCloud
 Categoria: software Cloud
 Revision: 1
-Settori commerciali: horeca 
+Settori commerciali: horeca
 Destinatario del documento: partners, dealer, supporto, sales
+summary: "Pagina introduttiva del corso di formazione commerciale HyperRetailCloud per Partner Custom S.p.A. Presenta obiettivi, programma dei 5 moduli (durata circa 1 ora) e struttura del portale riservato ai dealer abilitati alla vendita."
+capitolo: 1
+fonte: HyperCloud_01_Introduzione 1.docx
+tags:
+  - introduzione
+  - corso
+  - formazione
+  - programma
+  - dealer
+  - partner
 ---
 
 ![](assets/images/locoHyperC.png)

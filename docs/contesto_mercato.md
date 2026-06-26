@@ -1,5 +1,5 @@
 ---
-title: "Contesto di Mercato"
+title: "Il contesto di mercato HyperRetailCloud"
 date: "2026-06-26"
 categoria: software HyperRetailCloud
 creato da: Robuschi Ivan
@@ -7,13 +7,24 @@ Azienda: Custom S.p.A.
 Software: HyperRetailCloud
 Categoria: software Cloud
 Revision: 1
-Settori commerciali: horeca 
+Settori commerciali: horeca, tabacchi, retail, stagionali
 Destinatario del documento: partners, dealer, supporto, sales
+summary: "Analisi del contesto di mercato per HyperRetailCloud: startup del commercio, bar, tabacchi, general store e attività stagionali. Include opportunità del cambio RT a tasti, hardware Custom Intrilever, segnali di acquisto e ruolo del concessionario sul territorio."
+capitolo: 2
+fonte: HyperCloud_02_ContestoDiMercato 1.docx
+tags:
+  - contesto-mercato
+  - startup
+  - bar
+  - tabacchi
+  - general-store
+  - stagionali
+  - cambio-rt
+  - hardware-custom
+  - concessionario
 ---
 
 # Contesto di Mercato
-
-**HyperRetailCloud — Formazione Commerciale** | *Custom S.p.A. © 2026*
 
 ---
 

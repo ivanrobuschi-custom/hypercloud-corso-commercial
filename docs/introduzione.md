@@ -1,7 +1,14 @@
 ---
-title: "Capitolo 1 — Introduzione"
+title: "Introduzione"
 date: "2026-06-26"
 categoria: software HyperRetailCloud
+creato da: Robuschi Ivan
+Azienda: Custom S.p.A.
+Software: HyperRetailCloud
+Categoria: software Cloud
+Revision: 1
+Settori commerciali: horeca 
+Destinatario del documento: partners, dealer, supporto, sales
 ---
 
 ![](assets/images/locoHyperC.png)

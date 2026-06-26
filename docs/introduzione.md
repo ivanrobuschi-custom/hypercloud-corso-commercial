@@ -4,17 +4,14 @@ date: "2026-06-26"
 categoria: software HyperRetailCloud
 ---
 
-# Capitolo 1 — Introduzione
-
-**HyperRetailCloud — Formazione Commerciale** | *Custom S.p.A. © 2026*
+![](assets/images/locoHyperC.png)
 
 ---
 
-## HyperRetailCloud — Formazione Commerciale
+# HyperRetailCloud — Formazione Commerciale
 
-![](assets/images/locoHyperC.png)
 
-### Cos'è HyperRetailCloud
+## Cos'è HyperRetailCloud
 
 HyperRetailCloud è il software di cassa cloud di Hyperetail, distribuito da Custom S.p.A. Pronto all'uso, multipiattaforma e con zero tempi di installazione — dalla cassa assistita al totem self-service, da Windows ad Android, il punto vendita è sempre sotto controllo.
 
@@ -64,6 +61,6 @@ Il corso è suddiviso nei seguenti capitoli:
 
 ---
 
-[Successivo: Capitolo 2 — Contesto di Mercato →](contesto-di-mercato.md)
+[Successivo: Contesto di Mercato →](contesto-di-mercato.md)
 
 *Custom S.p.A. © 2026 — Uso riservato ai concessionari autorizzati*

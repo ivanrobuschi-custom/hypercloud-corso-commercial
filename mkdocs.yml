@@ -1,4 +1,4 @@
-site_name: HyperCloud — Formazione Commerciale
+site_name: HyperRetailCloud — Formazione Commerciale
 site_url: https://github.com/ivanrobuschi-custom/hypercloud_corso_commercial.git
 site_author: Custom S.p.A.
 
@@ -42,6 +42,4 @@ plugins:
 copyright: Copyright Custom S.p.A 2026
 
 nav:
-  - Home: index.md
-  - Capitolo 1 — Introduzione: introduzione.md
-  - Capitolo 2 — Contesto di Mercato: contesto-di-mercato.md
+  - Introduzione: introduzione.md

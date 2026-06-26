@@ -12,7 +12,7 @@ Destinatario del documento: partners, dealer, supporto, sales
 summary: "Guida al sistema di licenze a token di HyperRetailCloud: come acquistare e gestire i token tramite HyperLand, struttura del canone mensile modulare, moduli disponibili (Monopolio, Ristorazione, HyperStore, PLUS, LiveRetail), simulazioni di costo per profilo cliente e vantaggi del sistema per il partner rivenditore."
 capitolo: 4
 fonte: HyperCloud_04_IPiani.docx
-tags:
+Keywords:
   - piani
   - token
   - licenze

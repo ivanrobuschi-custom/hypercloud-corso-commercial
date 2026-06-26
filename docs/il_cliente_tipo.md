@@ -12,7 +12,7 @@ Destinatario del documento: partners, dealer, supporto, sales
 summary: "Guida alle 4 macro categorie di clienti target per HyperRetailCloud: attività stagionali, startup e nuove aperture, sostituzione RT a tasti, clienti insoddisfatti della concorrenza. Per ogni categoria: chi sono, il problema, i segnali di acquisto e gli argomenti di vendita chiave."
 capitolo: 5
 fonte: HyperCloud_05_IlClienteTipo.docx
-tags:
+Keywords:
   - cliente-tipo
   - stagionali
   - startup

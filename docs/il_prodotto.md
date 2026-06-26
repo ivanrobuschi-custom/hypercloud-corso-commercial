@@ -12,7 +12,7 @@ Destinatario del documento: partners, dealer, supporto, sales
 summary: "Guida completa alle funzionalità di HyperRetailCloud: interfaccia grafica personalizzabile, architettura offline-first, tre canali di configurazione (cassa, HyperLand, Web Console), conti sospesi, anagrafica barcode cloud e gestione codici alternativi e confezioni."
 capitolo: 3
 fonte: HyperCloud_03_Il_Prodotto.docx
-tags:
+Keywords:
   - prodotto
   - interfaccia
   - offline-first

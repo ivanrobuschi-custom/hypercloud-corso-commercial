@@ -12,7 +12,7 @@ Destinatario del documento: partners, dealer, supporto, sales
 summary: "Pagina introduttiva del corso di formazione commerciale HyperRetailCloud per Partner Custom S.p.A. Presenta obiettivi, programma dei 5 moduli (durata circa 1 ora) e struttura del portale riservato ai dealer abilitati alla vendita."
 capitolo: 1
 fonte: HyperCloud_01_Introduzione 1.docx
-tags:
+Keywords:
   - introduzione
   - corso
   - formazione

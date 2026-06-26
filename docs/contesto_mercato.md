@@ -12,7 +12,7 @@ Destinatario del documento: partners, dealer, supporto, sales
 summary: "Analisi del contesto di mercato per HyperRetailCloud: startup del commercio, bar, tabacchi, general store e attività stagionali. Include opportunità del cambio RT a tasti, hardware Custom Intrilever, segnali di acquisto e ruolo del concessionario sul territorio."
 capitolo: 2
 fonte: HyperCloud_02_ContestoDiMercato 1.docx
-tags:
+Keywords:
   - contesto-mercato
   - startup
   - bar

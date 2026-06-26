@@ -1,7 +1,7 @@
 ---
 title: "Capitolo 1 — Introduzione"
 date: "2026-06-26"
-categoria: software Hypercloud
+categoria: software HyperRetailCloud
 ---
 
 # Capitolo 1 — Introduzione
@@ -11,6 +11,8 @@ categoria: software Hypercloud
 ---
 
 ## HyperRetailCloud — Formazione Commerciale
+
+![](assets/images/locoHyperC.png)
 
 ### Cos'è HyperRetailCloud
 

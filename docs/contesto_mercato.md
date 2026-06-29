@@ -180,9 +180,9 @@ Esempi di attività stagionali ideali per HyperRetailCloud:
 
 ---
 
-## L'hardware ideale: Custom Intrilever
+## L'hardware ideale: Custom Entry Level
 
-HyperRetailCloud si integra nativamente con i dispositivi Custom Intrilever: registratori telematici Android progettati per il punto vendita moderno, robusti, touchscreen e pronti per lavorare in cloud.
+HyperRetailCloud si integra nativamente con i dispositivi Custom Entry Level: registratori telematici Android progettati per il punto vendita moderno, robusti, touchscreen e pronti per lavorare in cloud.
 
 ### Custom Edge N+
 

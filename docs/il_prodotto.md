@@ -42,12 +42,24 @@ Il cuore di HyperRetailCloud è la schermata di vendita interamente personalizza
 
 Per i punti vendita con operatore, l'interfaccia è semplice e immediata: pochi tasti grandi, chiari, colorati. Il personale trova subito quello che cerca senza navigare menu complessi.
 
+![Schermata di vendita HyperRetailCloud — layout enoteca con reparti e conto](assets/images/prodotto_img1.jpg){ align=right width=380 }
+
 - **Tasti configurabili** — colore, icona, immagine prodotto, testo: ogni tasto è personalizzabile
 - **Layout flessibile** — griglia liberamente organizzabile per reparto, categoria o funzione
 - **Sfondo e grafica** — personalizzazione completa dell'aspetto visivo per rispecchiare il brand del cliente
 - **Multipiattaforma** — si adatta a qualsiasi risoluzione, da PC touch a tablet Android
 
+<br clear="right"/>
+
+![Interfaccia con articoli fotografici e prezzi su tablet Android](assets/images/prodotto_img2.jpg){ align=left width=230 }
+
+Ogni tasto può mostrare la foto del prodotto, il nome e il prezzo — il personale seleziona con un tocco. Ideale per ristorazione, bar e locali con menu fotografico.
+
+<br clear="left"/>
+
 ### Totem self-service e self-order
+
+![Totem self-service HyperRetailCloud — menu bar con immagini prodotto](assets/images/prodotto_img3.jpg){ align=right width=220 }
 
 Sul totem self-service HyperRetailCloud trasforma la schermata di vendita in una vera architettura di vendita guidata: il cliente viene accompagnato nel percorso d'acquisto attraverso immagini e video in altissima risoluzione che valorizzano i prodotti e stimolano l'acquisto.
 
@@ -62,6 +74,8 @@ Sul totem self-service HyperRetailCloud trasforma la schermata di vendita in una
     Ideale per: fast food, bar, paninoteche, pizzerie d'asporto, gelaterie.
 
 > *"Non è solo una cassa in piedi. È un venditore automatico che lavora 24/7, conosce il menu, spinge i prodotti giusti e non si stanca mai."*
+
+<br clear="right"/>
 
 ---
 
@@ -104,10 +118,18 @@ HyperLand è l'applicazione esclusiva per i Partner Custom, il centro di control
 
 La Web Console è il portale web dedicato al cliente finale, accessibile da qualsiasi browser tramite l'indirizzo email abilitato in fase di installazione dal dealer.
 
+![Web Console — homepage con Reparti e Prodotti](assets/images/prodotto_img4.jpg){ align=right width=320 }
+
 - **Accesso via browser** — nessun software da installare, basta una connessione Internet
 - **Gestione archivi in autonomia** — il titolare aggiorna anagrafiche, prezzi e reparti senza chiamare il tecnico
 - **Da qualsiasi dispositivo** — PC, tablet o smartphone: la Web Console si adatta a qualsiasi schermo
 - **Accesso sicuro** — autenticazione via email configurata in fase di installazione
+
+<br clear="right"/>
+
+![Web Console — modifica articolo con listini multipli e codice a barre](assets/images/prodotto_img5.jpg){ width=480 }
+
+*La scheda articolo nella Web Console: reparto, IVA, listini differenziati (base, asporto, Roma, Milano...) e codice a barre — tutto gestito dal titolare in autonomia, senza il tecnico.*
 
 ---
 
@@ -138,6 +160,8 @@ La costruzione dell'anagrafica è guidata, rapida e assistita dal cloud: basta s
 
 ### Come funziona l'inserimento automatico
 
+![Inserimento articolo via barcode cloud — Coca Cola con proposte immagine e descrizione](assets/images/prodotto_img6.png){ align=right width=280 }
+
 1. **Scansiona il barcode** — l'operatore legge il codice con lo scanner
 2. **Il cloud riconosce il prodotto** — HyperRetailCloud cerca nel database centralizzato
 3. **Proposta automatica** — il sistema mostra descrizioni e immagini del prodotto
@@ -146,6 +170,8 @@ La costruzione dell'anagrafica è guidata, rapida e assistita dal cloud: basta s
 
 !!! success "Risultato"
     Un catalogo prodotti completo, con immagini, costruito in pochi minuti senza digitare nulla manualmente. Veloce e immediato anche per operatori senza esperienza informatica.
+
+<br clear="right"/>
 
 ### Anagrafica tabacchi — richiede il modulo Monopolio
 

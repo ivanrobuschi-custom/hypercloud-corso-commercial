@@ -23,6 +23,8 @@ Keywords:
 
 ![](assets/images/locoHyperC.png)
 
+
+
 # HyperRetailCloud — Formazione Commerciale
 
 

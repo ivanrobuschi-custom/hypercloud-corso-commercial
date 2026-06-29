@@ -36,17 +36,6 @@ Keywords:
 
 ---
 
-## Video — HyperRetailCloud AI in azione
-
-<div markdown="block" style="max-width:720px;">
-<video controls width="100%">
-<source src="../assets/resources/video_promo_ai.mp4" type="video/mp4">
-Il tuo browser non supporta la riproduzione video nativa.
-</video>
-</div>
-
----
-
 ## Schema di qualificazione rapida
 
 Da usare durante il primo contatto con un potenziale cliente. Stampatelo o salvatelo sul telefono.

@@ -38,10 +38,12 @@ Keywords:
 
 ## Video — HyperRetailCloud AI in azione
 
-<video controls style="width:100%; max-width:720px; border-radius:8px;">
-  <source src="assets/resources/video_promo_ai.mp4" type="video/mp4">
-  Il tuo browser non supporta la riproduzione video nativa.
+<div markdown="block" style="max-width:720px;">
+<video controls width="100%">
+<source src="../assets/resources/video_promo_ai.mp4" type="video/mp4">
+Il tuo browser non supporta la riproduzione video nativa.
 </video>
+</div>
 
 ---
 

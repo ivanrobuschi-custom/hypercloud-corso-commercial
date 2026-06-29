@@ -26,6 +26,8 @@ Keywords:
 
 # Contesto di Mercato
 
+![Prodotti sincronizzati dal cloud al POS Custom](assets/images/contesto_mercato_img1.jpeg){ align=right width=260 }
+
 ---
 
 ## Il target primario: le startup del commercio
@@ -182,10 +184,21 @@ Esempi di attività stagionali ideali per HyperRetailCloud:
 
 HyperRetailCloud si integra nativamente con i dispositivi Custom Intrilever: registratori telematici Android progettati per il punto vendita moderno, robusti, touchscreen e pronti per lavorare in cloud.
 
-| Dispositivo | Caratteristiche |
-|-------------|----------------|
-| **Custom Edge N+** | Registratore telematico Android compatto, ideale per bar, tabacchi e negozi con spazio ridotto. Display touch, stampante integrata, connessione cloud nativa. |
-| **Custom Fusion N 2.0 RT** | PC POS all-in-one con schermo touch, stampante integrata, Android. Perfetto per negozi e locali che necessitano di un display più ampio e una postazione fissa strutturata. |
+### Custom Edge N+
+
+![Custom Edge N+ — registratore telematico Android compatto](assets/images/contesto_mercato_img2.png){ align=right width=280 }
+
+Registratore telematico Android compatto, ideale per bar, tabacchi e negozi con spazio ridotto. Display touch, stampante integrata, connessione cloud nativa. La scelta perfetta per chi ha poco spazio sul bancone e vuole uno strumento moderno, veloce e sempre aggiornato.
+
+<br clear="right"/>
+
+### Custom Fusion N 2.0 RT
+
+![Custom Fusion N 2.0 RT — PC POS all-in-one Android](assets/images/contesto_mercato_img3.png){ align=right width=320 }
+
+PC POS all-in-one con schermo touch ampio, stampante integrata, Android. Perfetto per negozi e locali che necessitano di una postazione fissa strutturata con display generoso. Ideale per ristorazione con menu grafico, retail con catalogo articoli esteso, tabaccherie con gestione avanzata.
+
+<br clear="right"/>
 
 !!! note "Il vantaggio dell'ecosistema Custom"
     HyperRetailCloud + hardware Custom Intrilever = un ecosistema unico con un solo interlocutore. Il concessionario installa, configura e supporta tutto. Nessun problema di compatibilità, nessun tecnico esterno, nessuna dipendenza da terze parti.

@@ -46,7 +46,7 @@ Stai parlando con il cliente giusto se:
 
 - È un'attività aperta meno di 12 mesi all'anno (stagione estiva, invernale, fiere)
 - Ha già un software a canone annuale e si lamenta di pagarlo anche quando è chiuso
-- Non ha ancora nessun sistema di cassa digitale (lavora con registratore a tasti o in nero)
+- Non ha ancora nessun sistema di cassa digitale (lavora con registratore a tasti)
 - Ha già una stampante Custom o un hardware che può riutilizzare
 - Non vuole investire cifre importanti perché il business è ancora stagionale/incerto
 - Riapre ogni anno e perde tempo a reinserire i dati da zero
@@ -95,7 +95,7 @@ Stai parlando con il cliente giusto se:
 - Sta aprendo per la prima volta e non sa ancora come si evolverà il business
 - Non vuole investire molto prima ancora di sapere se l'attività funzionerà
 - Ha paura di acquistare un software troppo complesso o sovradimensionato
-- Non ha un tecnico di fiducia e vuole qualcosa di semplice da gestire
+- Non ha un dipendente di fiducia e vuole qualcosa di semplice da gestire
 - Cerca flessibilità: vuole poter aggiungere funzionalità in un secondo momento
 - Ha già valutato soluzioni concorrenti ma le ha trovate troppo costose o rigide
 
@@ -144,8 +144,7 @@ Stai parlando con il cliente giusto se:
 
 - Ha ancora una cassa a tasti (registratore tradizionale, senza schermo touch)
 - Il suo RT è in scadenza di certificato o ha la memoria fiscale quasi piena
-- L'Agenzia delle Entrate o il tecnico gli ha detto che deve cambiare
-- Non ha mai avuto un'anagrafica digitale (non sa cosa vende, non ha reportistica)
+-- Non ha mai avuto un'anagrafica digitale (non ha una conoscienza approfondita di cosa vende, non ha reportistica)
 - È curioso ma diffidente: *"Queste cose nuove mi fanno perdere tempo"*
 - Lavora in un settore multi-merceologico (tabacchi+bar, market+bar, ecc.)
 
@@ -222,7 +221,7 @@ Questo è il cliente più strategico per il partner. Si conquista con il softwar
 
     **Fase 2 — Il cliente si fida.** Usa HyperRetailCloud ogni giorno. Il sistema funziona. Il partner è il suo riferimento.
 
-    **Fase 3 — Vendo l'hardware.** Stampante Custom, bilancia, RT Android — quando arriva il guasto, la proposta è già pronta. Ogni pezzo di hardware vecchio che si rompe è un'opportunità di vendita.
+    **Fase 3 — Vendo l'hardware.** Stampante Custom, bilancia, RT Custom, passaggio a device Android (Edge n+ e Fusion N2.0)  — quando arriva il guasto, la proposta è già pronta. Ogni dispositivo di hardware vecchio che si rompe è un'opportunità di vendita.
 
 **Argomento multipiattaforma:**
 

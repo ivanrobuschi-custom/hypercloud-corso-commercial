@@ -201,7 +201,7 @@ PC POS all-in-one con schermo touch ampio, stampante integrata, Android. Perfett
 <br clear="right"/>
 
 !!! note "Il vantaggio dell'ecosistema Custom"
-    HyperRetailCloud + hardware Custom Intrilever = un ecosistema unico con un solo interlocutore. Il concessionario installa, configura e supporta tutto. Nessun problema di compatibilità, nessun tecnico esterno, nessuna dipendenza da terze parti.
+    HyperRetailCloud + hardware Custom Intrilever = un ecosistema unico con un solo interlocutore. Il partner installa, configura e supporta tutto. Nessun problema di compatibilità, nessun tecnico esterno, nessuna dipendenza da terze parti.
 
 ---
 
@@ -223,7 +223,7 @@ Durante la visita commerciale, questi sono i segnali che indicano un cliente cal
 
 ---
 
-## Il ruolo del concessionario
+## Il ruolo del partner Custom S.p.A.
 
 Voi non vendete solo un software. Portate a un esercente che spesso apre per la prima volta uno strumento che gli permette di partire subito, senza stress tecnico, con la certezza di poter crescere.
 
@@ -239,4 +239,4 @@ Voi non vendete solo un software. Portate a un esercente che spesso apre per la 
 
 [← Precedente: Introduzione](introduzione.md) | [Successivo: Il Prodotto →](il_prodotto.md)
 
-*Custom S.p.A. © 2026 — Uso riservato ai concessionari autorizzati*
+*Custom S.p.A. © 2026 — Uso riservato ai partner autorizzati*

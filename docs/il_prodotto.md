@@ -222,4 +222,4 @@ La gestione delle confezioni consente di abbinare a un articolo una versione mul
 
 [← Contesto di Mercato](contesto_mercato.md) | [Successivo: I Piani →](i_piani.md)
 
-*Custom S.p.A. © 2026 — Uso riservato ai concessionari autorizzati*
+*Custom S.p.A. © 2026 — Uso riservato ai partner autorizzati*

@@ -113,4 +113,4 @@ Esercenti che usano già un software gestionale ma non ne sono soddisfatti: trop
 
 [← I Piani e i Token](i_piani.md) | [Argomentario di Vendita →](argomentazioni_di_vendita.md)
 
-*Custom S.p.A. © 2026 — Uso riservato ai concessionari autorizzati*
+*Custom S.p.A. © 2026 — Uso riservato ai partner autorizzati*

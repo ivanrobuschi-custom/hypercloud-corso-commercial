@@ -260,4 +260,4 @@ Usa questa tabella per costruire rapidamente un'offerta durante la visita commer
 
 [← Il Prodotto](il_prodotto.md) | [Successivo: Il Cliente Tipo →](il_cliente_tipo.md)
 
-*Custom S.p.A. © 2026 — Uso riservato ai concessionari autorizzati*
+*Custom S.p.A. © 2026 — Uso riservato ai partner autorizzati*

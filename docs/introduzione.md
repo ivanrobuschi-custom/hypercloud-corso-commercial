@@ -80,4 +80,4 @@ Il corso è suddiviso nei seguenti capitoli:
 
 [Successivo: Contesto di Mercato →](contesto-di-mercato.md)
 
-*Custom S.p.A. © 2026 — Uso riservato ai concessionari autorizzati*
+*Custom S.p.A. © 2026 — Uso riservato ai partner autorizzati*

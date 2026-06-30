@@ -157,4 +157,4 @@ Per domande sull'offerta, prezzi e condizioni rivolgersi a Custom S.p.A.:
 
 [← Argomentario di Vendita](argomentazioni_di_vendita.md) | [Torna all'Introduzione →](introduzione.md)
 
-*Custom S.p.A. © 2026 — Uso riservato ai concessionari autorizzati*
+*Custom S.p.A. © 2026 — Uso riservato ai partner autorizzati*

@@ -250,4 +250,4 @@ Queste obiezioni le sentirai spesso, indipendentemente dalla categoria di client
 
 [← Il Cliente Tipo](il_cliente_tipo.md) | [Torna all'Introduzione →](introduzione.md)
 
-*Custom S.p.A. © 2026 — Uso riservato ai concessionari autorizzati*
+*Custom S.p.A. © 2026 — Uso riservato ai partner autorizzati*

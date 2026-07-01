@@ -78,6 +78,6 @@ Il corso è suddiviso nei seguenti capitoli:
 
 ---
 
-[Successivo: Contesto di Mercato →](contesto-di-mercato.md)
+[Successivo: Contesto di Mercato →](contesto_mercato.md)
 
 *Custom S.p.A. © 2026 — Uso riservato ai partner autorizzati*

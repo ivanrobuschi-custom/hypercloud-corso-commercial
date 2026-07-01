@@ -248,6 +248,6 @@ Queste obiezioni le sentirai spesso, indipendentemente dalla categoria di client
 
 ---
 
-[← Il Cliente Tipo](il_cliente_tipo.md) | [Torna all'Introduzione →](introduzione.md)
+[← Il Cliente Tipo](il_cliente_tipo.md) | [Materiali e Risorse →](risorse_e_materiali.md)
 
 *Custom S.p.A. © 2026 — Uso riservato ai partner autorizzati*

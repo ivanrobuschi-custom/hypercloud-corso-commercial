@@ -128,6 +128,6 @@ Le funzionalità AI sono legate all'attivazione dei moduli giusti. Consulta la s
 
 ---
 
-[← I Piani e i Token](i_piani.md) | [Materiali e Risorse →](risorse_e_materiali.md)
+[← Configuratore Token](configuratore.md) | [Il Cliente Tipo →](il_cliente_tipo.md)
 
 *Custom S.p.A. © 2026 — Uso riservato ai partner autorizzati*

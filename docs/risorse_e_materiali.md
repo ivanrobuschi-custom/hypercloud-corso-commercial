@@ -28,6 +28,17 @@ Keywords:
 
 ---
 
+## 🎬 Video — Guarda la guida completa per acquistare ed abbinare la licenza HyperRetailCloud
+
+<div markdown="block" style="max-width:720px;">
+<video controls width="100%">
+<source src="../assets/resources/acquisto_licenza.mp4" type="video/mp4">
+Il tuo browser non supporta la riproduzione video nativa.
+</video>
+</div>
+
+---
+
 ## Documentazione commerciale
 
 - Scarica il [**Flyer HyperRetailCloud**](assets/resources/Flyer_Hypercloud_web.pdf) — da condividere con i clienti durante la visita
